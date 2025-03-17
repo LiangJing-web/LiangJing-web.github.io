@@ -24,11 +24,10 @@ author:
   # Biographic information
   avatar           : "Liang Jing.png"
   name             : "Liang Jing"
-  pronouns         : # example: "she/her"  
   bio              : "After all tomorrow is another day"
   location         : "China"
   employer         : "Zhejiang University"
-  uri              : # URL
+  uri              : "Zhejiang University"
   email            : "liangjing.jjj@gmail.com" 
 
   # Academic websites
@@ -41,7 +40,7 @@ author:
  # researchgate     : # URL
  # scopus           : # URL
 
-  # Repositories and software development
+# Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
@@ -49,7 +48,7 @@ author:
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
-  # Social media
+ # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
@@ -74,9 +73,8 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
+  publication_category:
   books:
     title: 'Books'
   manuscripts:
@@ -128,11 +126,10 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-
 # Social Sharing
-twitter:
+  twitter:
   username               : &twitter
-facebook:
+  facebook:
   username               :
   app_id                 :
   publisher              :
