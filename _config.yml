@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Liang Jing/ Personal Website"
+title                    : "Liang Jing-Personal Website"
 title_separator          : "-"
 name                     : &name "Liang Jing"
 description              : &description "life is short"
@@ -24,7 +24,7 @@ author:
   avatar           : "Liang Jing.png"
   name             : "Liang Jing"
   pronouns         : # example: "she/her"  
-  bio              : "After all tommrow is another day"
+  bio              : "After all tomorrow is another day"
   location         : "China"
   employer         : "Zhejiang University"
   uri              : # URL
@@ -350,3 +350,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+googlescholar: ""
