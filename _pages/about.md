@@ -14,4 +14,4 @@ Currently, I am conducting research in [Prof.Li's](https://person.zju.edu.cn/en/
 
  Learn more about my research:[Research on *Formica fusca*](../assets/)
 
-View my CV:[Liang Jing's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+View my CV:[Liang Jing's Curriculum Vitae](../assets/C-V.pdf).
